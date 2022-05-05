@@ -4,4 +4,4 @@
 solid foundations in computer science in order one day to be able to switch among programming languages and became a complete software developer
 - 💞️ I’m looking to collaborate on web app creation
 - 📫 How to reach me: em.zaccaria@gmail.com <-> https://github.com/emazack
-- 🤪 I am crazy: I want to be the living proof that talent does not exist, it's just matter of commitment and passion. I am passionate about problem solving and programming. I believe in multidisciplinary mindset.
+- 🤪 I want to be the living proof that innate talent does not exist, it's just matter of commitment and passion. I am passionate about problem solving and programming. I believe in multidisciplinary mindset.
