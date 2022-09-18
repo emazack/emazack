@@ -34,7 +34,6 @@ Want more? Check on [my repos...](https://github.com/emazack?tab=repositories)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-HTML?style=flat&logo=html5&logoColor=white&color=4AB197)
 
 <details>
 <summary>More Skills</summary>
@@ -45,9 +44,10 @@ Want more? Check on [my repos...](https://github.com/emazack?tab=repositories)
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=GitLab&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Wrike?style=flat&logo=wrike&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-Figma?style=flat&logo=figma&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Vue?style=flat&logo=vue&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-Wrike-4AB197)
+![](https://img.shields.io/badge/Style-Figma-4AB197)
+![](https://img.shields.io/badge/Code-Vue-4AB197)
+![](https://img.shields.io/badge/Code-HTML-4AB197)
 
 
 </details>
