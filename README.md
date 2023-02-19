@@ -18,9 +18,16 @@ solid foundations in computer science in order one day to be able to switch amon
 | Project | Description  | Status | Links  | 
 |--------------|---|---|---|
 | [**Weather App**](https://emazack.github.io/weather-app/) |  Take the umbrella in React | CD  | [![](https://img.shields.io/badge/-🌎-informational?style=flat&logoColor=black&color=white)](https://emazack.github.io/weather-app/) [![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/emazack/weather-app) |
+
 | [**Typescript Money trend Component**](https://emazack.github.io/monthly-trend-component/)             |  Quickly view the annual amounts, just numbers not real money  | PROD |[![](https://img.shields.io/badge/-🌎-informational?style=flat&logoColor=black&color=white)](https://emazack.github.io/monthly-trend-component/) [![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/emazack/monthly-trend-component)|
+
 | [**Ball game**](#underdevelopment)             | I like big balls, do you?  | WIP |[![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/emazack/js-ball-game)   |
+
 | [**E-learning landing page**](https://emazack.github.io/e-learning-landing-page/)             | You are not going to be skilled by looking this repo  | PROD |[![](https://img.shields.io/badge/-🌎-informational?style=flat&logoColor=black&color=white)](https://emazack.github.io/e-learning-landing-page/) [![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/emazack/e-learning-landing-page)|
+
+| [**Password Generator**](https://emazack.github.io/password-generator/)             | Ez two pass generator  | PROD |[![](https://img.shields.io/badge/-🌎-informational?style=flat&logoColor=black&color=white)](https://emazack.github.io/password-generator/) [![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/emazack/password-generator)|
+
+| [**User Manager**](https://emazack.github.io/user-manager/)             | React CRUD  | PROD |[![](https://img.shields.io/badge/-🌎-informational?style=flat&logoColor=black&color=white)](https://emazack.github.io/user-manager/) [![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/emazack/user-manager)|
 
 <div align="center">
 
