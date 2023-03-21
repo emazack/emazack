@@ -20,14 +20,12 @@ solid foundations in computer science in order one day to be able to switch amon
 | [**Weather App**](https://emazack.github.io/weather-app/) |  Take the umbrella in React | CD  | [![](https://img.shields.io/badge/-🌎-informational?style=flat&logoColor=black&color=white)](https://emazack.github.io/weather-app/) [![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/emazack/weather-app) |
 | [**User Manager**](https://emazack.github.io/user-manager/)             | React CRUD  | PROD |[![](https://img.shields.io/badge/-🌎-informational?style=flat&logoColor=black&color=white)](https://emazack.github.io/user-manager/) [![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/emazack/user-manager)|
 
-<div align="center">
   
  ## 🔨 Games
 | Project | Description  | Status | Links  | 
 |--------------|---|---|---|
 | [**Ball game**](#underdevelopment)             | I like big balls, do you?  | WIP |[![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/emazack/js-ball-game)   |
 
-<div align="center">
  
  ## 🔨 Utility
 | Project | Description  | Status | Links  | 
@@ -35,7 +33,6 @@ solid foundations in computer science in order one day to be able to switch amon
 | [**Money trend Component**](https://emazack.github.io/monthly-trend-component/)             |  Quickly view the annual amounts, in Typescript  | PROD |[![](https://img.shields.io/badge/-🌎-informational?style=flat&logoColor=black&color=white)](https://emazack.github.io/monthly-trend-component/) [![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/emazack/monthly-trend-component)|
 | [**Password Generator**](https://emazack.github.io/password-generator/)             | Ez two pass generator  | PROD |[![](https://img.shields.io/badge/-🌎-informational?style=flat&logoColor=black&color=white)](https://emazack.github.io/password-generator/) [![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/emazack/password-generator)|
 
-<div align="center">
   
  ## 🔨 Graphic Design
 | Project | Description  | Status | Links  | 
@@ -57,3 +54,4 @@ Want more? Check on [my repos...](https://github.com/emazack?tab=repositories)
 
 
 <br>
+</div>
