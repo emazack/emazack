@@ -14,15 +14,33 @@ solid foundations in computer science in order one day to be able to switch amon
 </div>
 
 
-## 🔨 My Projects
+## 🔨 App
 | Project | Description  | Status | Links  | 
 |--------------|---|---|---|
 | [**Weather App**](https://emazack.github.io/weather-app/) |  Take the umbrella in React | CD  | [![](https://img.shields.io/badge/-🌎-informational?style=flat&logoColor=black&color=white)](https://emazack.github.io/weather-app/) [![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/emazack/weather-app) |
-| [**Money trend Component**](https://emazack.github.io/monthly-trend-component/)             |  Quickly view the annual amounts, in Typescript  | PROD |[![](https://img.shields.io/badge/-🌎-informational?style=flat&logoColor=black&color=white)](https://emazack.github.io/monthly-trend-component/) [![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/emazack/monthly-trend-component)|
-| [**Ball game**](#underdevelopment)             | I like big balls, do you?  | WIP |[![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/emazack/js-ball-game)   |
-| [**E-learning landing page**](https://emazack.github.io/e-learning-landing-page/)             | You are not going to be skilled by looking this repo  | PROD |[![](https://img.shields.io/badge/-🌎-informational?style=flat&logoColor=black&color=white)](https://emazack.github.io/e-learning-landing-page/) [![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/emazack/e-learning-landing-page)|
-| [**Password Generator**](https://emazack.github.io/password-generator/)             | Ez two pass generator  | PROD |[![](https://img.shields.io/badge/-🌎-informational?style=flat&logoColor=black&color=white)](https://emazack.github.io/password-generator/) [![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/emazack/password-generator)|
 | [**User Manager**](https://emazack.github.io/user-manager/)             | React CRUD  | PROD |[![](https://img.shields.io/badge/-🌎-informational?style=flat&logoColor=black&color=white)](https://emazack.github.io/user-manager/) [![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/emazack/user-manager)|
+
+<div align="center">
+  
+ ## 🔨 Games
+| Project | Description  | Status | Links  | 
+|--------------|---|---|---|
+| [**Ball game**](#underdevelopment)             | I like big balls, do you?  | WIP |[![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/emazack/js-ball-game)   |
+
+<div align="center">
+ 
+ ## 🔨 Utility
+| Project | Description  | Status | Links  | 
+|--------------|---|---|---|
+| [**Money trend Component**](https://emazack.github.io/monthly-trend-component/)             |  Quickly view the annual amounts, in Typescript  | PROD |[![](https://img.shields.io/badge/-🌎-informational?style=flat&logoColor=black&color=white)](https://emazack.github.io/monthly-trend-component/) [![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/emazack/monthly-trend-component)|
+| [**Password Generator**](https://emazack.github.io/password-generator/)             | Ez two pass generator  | PROD |[![](https://img.shields.io/badge/-🌎-informational?style=flat&logoColor=black&color=white)](https://emazack.github.io/password-generator/) [![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/emazack/password-generator)|
+
+<div align="center">
+  
+ ## 🔨 Graphic Design
+| Project | Description  | Status | Links  | 
+|--------------|---|---|---|
+| [**E-learning landing page**](https://emazack.github.io/e-learning-landing-page/)             | You are not going to be skilled by looking this repo  | PROD |[![](https://img.shields.io/badge/-🌎-informational?style=flat&logoColor=black&color=white)](https://emazack.github.io/e-learning-landing-page/) [![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/emazack/e-learning-landing-page)|
 
 <div align="center">
 
@@ -37,21 +55,5 @@ Want more? Check on [my repos...](https://github.com/emazack?tab=repositories)
 ![](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
 
-<details>
-<summary>More Skills</summary>
-<br>
-
-![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-Tailwind-informational?style=flat&logo=Tailwind-CSS&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=GitLab&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Wrike-4AB197)
-![](https://img.shields.io/badge/Style-Figma-4AB197)
-![](https://img.shields.io/badge/Code-Vue-4AB197)
-![](https://img.shields.io/badge/Code-HTML-4AB197)
-
-
-</details>
 
 <br>
