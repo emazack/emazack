@@ -25,7 +25,7 @@ solid foundations in computer science in order one day to be able to switch amon
 | Project | Description  | Status | Links  | 
 |--------------|---|---|---|
 | [**Ball game**](#underdevelopment)             | I like big balls, do you?  | WIP |[![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/emazack/js-ball-game)   |
-| [**Role-playing game**](https://github.com/emazack/role-playing-game)             | Wizards are OP  | PROD |[![](https://img.shields.io/badge/-🌎-informational?style=flat&logoColor=black&color=white)](https://emazack.github.io/role-playing-game/) [![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/emazack/role-playing-game)|
+| [**Role-playing game**](https://emazack.github.io/role-playing-game/)             | Wizards are OP  | PROD |[![](https://img.shields.io/badge/-🌎-informational?style=flat&logoColor=black&color=white)](https://emazack.github.io/role-playing-game/) [![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/emazack/role-playing-game)|
 
  
  ## 🔨 Utility
