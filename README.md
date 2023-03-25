@@ -19,6 +19,7 @@ solid foundations in computer science in order one day to be able to switch amon
 |--------------|---|---|---|
 | [**Weather App**](https://emazack.github.io/weather-app/) |  Take the umbrella in React | CD  | [![](https://img.shields.io/badge/-🌎-informational?style=flat&logoColor=black&color=white)](https://emazack.github.io/weather-app/) [![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/emazack/weather-app) |
 | [**User Manager**](https://emazack.github.io/user-manager/)             | React CRUD  | PROD |[![](https://img.shields.io/badge/-🌎-informational?style=flat&logoColor=black&color=white)](https://emazack.github.io/user-manager/) [![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/emazack/user-manager)|
+| [**Tindog**](https://emazack.github.io/tindog-app/) |  Tinder for dogs | PROD  | [![](https://img.shields.io/badge/-🌎-informational?style=flat&logoColor=black&color=white)](https://emazack.github.io/tindog-app/) [![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/emazack/tindog-app) |
 
   
  ## 🔨 Games
