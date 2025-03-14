@@ -13,6 +13,12 @@ solid foundations in computer science
 </div>
 
 
+## 🔨 AI
+| Project | Description  | Status | Links  | 
+|--------------|---|---|---|
+| [**Chef App**](https://github.com/emazack/chef-gpt) |  AI powered chef receipt creator | PROD  | [![](https://img.shields.io/badge/-🌎-informational?style=flat&logoColor=black&color=white)](https://chef-gpt-eight.vercel.app/) [![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/emazack/chef-gpt) |
+
+
 ## 🔨 App
 | Project | Description  | Status | Links  | 
 |--------------|---|---|---|
@@ -21,7 +27,7 @@ solid foundations in computer science
 | [**Tindog**](https://emazack.github.io/tindog-app/) |  Tinder for dogs | PROD | [![](https://img.shields.io/badge/-🌎-informational?style=flat&logoColor=black&color=white)](https://emazack.github.io/tindog-app/) [![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/emazack/tindog-app) |
 | [**Endorsement App**](https://github.com/emazack/endorsement-web-app) |  Share love with DB | PROD | [![](https://img.shields.io/badge/-🌎-informational?style=flat&logoColor=black&color=white)](https://endorsment-app.netlify.app/) [![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/emazack/endorsement-web-app) |
 
-  
+
  ## 🔨 Games
 | Project | Description  | Status | Links  | 
 |--------------|---|---|---|
