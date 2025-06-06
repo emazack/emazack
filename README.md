@@ -33,7 +33,7 @@ solid foundations in computer science
 |--------------|---|---|---|
 | [**Ball game**](https://emazack.github.io/ball-game/)             | Explode the ball, that's it  | 2021 |[![](https://img.shields.io/badge/-🌎-informational?style=flat&logoColor=black&color=white)](https://emazack.github.io/ball-game/) [![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/emazack/ball-game)|
 | [**Role-playing game**](https://emazack.github.io/role-playing-game/)             | Wizards are OP  | 2023 |[![](https://img.shields.io/badge/-🌎-informational?style=flat&logoColor=black&color=white)](https://emazack.github.io/role-playing-game/) [![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/emazack/role-playing-game)|
-| [**Guess the word**](https://emazack.github.io/role-playing-game/)             | Assembly: Endgame  | 2025 |[![](https://img.shields.io/badge/-🌎-informational?style=flat&logoColor=black&color=white)](https://emazack.github.io/assembly-game/) [![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/emazack/assembly-game)|
+| [**Guess the word**](https://github.com/emazack/assembly-game)             | Assembly: Endgame  | 2025 |[![](https://img.shields.io/badge/-🌎-informational?style=flat&logoColor=black&color=white)](https://emazack.github.io/assembly-game/) [![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/emazack/assembly-game)|
 
  
  ## 🔨 Utility
