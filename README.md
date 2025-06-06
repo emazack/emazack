@@ -14,37 +14,38 @@ solid foundations in computer science
 
 
 ## 🔨 AI
-| Project | Description  | Status | Links  | 
+| Project | Description  | Age | Links  | 
 |--------------|---|---|---|
-| [**Chef App**](https://github.com/emazack/chef-gpt) |  AI powered chef receipt creator | PROD  | [![](https://img.shields.io/badge/-🌎-informational?style=flat&logoColor=black&color=white)](https://chef-gpt-eight.vercel.app/) [![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/emazack/chef-gpt) |
+| [**Chef App**](https://github.com/emazack/chef-gpt) |  AI powered chef receipt creator | 2025  | [![](https://img.shields.io/badge/-🌎-informational?style=flat&logoColor=black&color=white)](https://chef-gpt-eight.vercel.app/) [![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/emazack/chef-gpt) |
 
 
 ## 🔨 App
-| Project | Description  | Status | Links  | 
+| Project | Description  | Age | Links  | 
 |--------------|---|---|---|
-| [**Weather App**](https://emazack.github.io/weather-app/) |  Take the umbrella in React | CD  | [![](https://img.shields.io/badge/-🌎-informational?style=flat&logoColor=black&color=white)](https://emazack.github.io/weather-app/) [![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/emazack/weather-app) |
-| [**User Manager**](https://emazack.github.io/user-manager/)             | React CRUD  | PROD |[![](https://img.shields.io/badge/-🌎-informational?style=flat&logoColor=black&color=white)](https://emazack.github.io/user-manager/) [![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/emazack/user-manager)|
-| [**Tindog**](https://emazack.github.io/tindog-app/) |  Tinder for dogs | PROD | [![](https://img.shields.io/badge/-🌎-informational?style=flat&logoColor=black&color=white)](https://emazack.github.io/tindog-app/) [![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/emazack/tindog-app) |
-| [**Endorsement App**](https://github.com/emazack/endorsement-web-app) |  Share love with DB | PROD | [![](https://img.shields.io/badge/-🌎-informational?style=flat&logoColor=black&color=white)](https://endorsment-app.netlify.app/) [![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/emazack/endorsement-web-app) |
+| [**Weather App**](https://emazack.github.io/weather-app/) |  Take the umbrella in React | 2021  | [![](https://img.shields.io/badge/-🌎-informational?style=flat&logoColor=black&color=white)](https://emazack.github.io/weather-app/) [![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/emazack/weather-app) |
+| [**User Manager**](https://emazack.github.io/user-manager/)             | React CRUD  | 2022 |[![](https://img.shields.io/badge/-🌎-informational?style=flat&logoColor=black&color=white)](https://emazack.github.io/user-manager/) [![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/emazack/user-manager)|
+| [**Tindog**](https://emazack.github.io/tindog-app/) |  Tinder for dogs | 2022 | [![](https://img.shields.io/badge/-🌎-informational?style=flat&logoColor=black&color=white)](https://emazack.github.io/tindog-app/) [![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/emazack/tindog-app) |
+| [**Endorsement App**](https://github.com/emazack/endorsement-web-app) |  Share love with DB | 2023 | [![](https://img.shields.io/badge/-🌎-informational?style=flat&logoColor=black&color=white)](https://endorsment-app.netlify.app/) [![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/emazack/endorsement-web-app) |
 
 
  ## 🔨 Games
-| Project | Description  | Status | Links  | 
+| Project | Description  | Age | Links  | 
 |--------------|---|---|---|
-| [**Ball game**](https://emazack.github.io/ball-game/)             | Explode the ball, that's it  | PROD |[![](https://img.shields.io/badge/-🌎-informational?style=flat&logoColor=black&color=white)](https://emazack.github.io/ball-game/) [![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/emazack/ball-game)|
-| [**Role-playing game**](https://emazack.github.io/role-playing-game/)             | Wizards are OP  | PROD |[![](https://img.shields.io/badge/-🌎-informational?style=flat&logoColor=black&color=white)](https://emazack.github.io/role-playing-game/) [![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/emazack/role-playing-game)|
+| [**Ball game**](https://emazack.github.io/ball-game/)             | Explode the ball, that's it  | 2021 |[![](https://img.shields.io/badge/-🌎-informational?style=flat&logoColor=black&color=white)](https://emazack.github.io/ball-game/) [![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/emazack/ball-game)|
+| [**Role-playing game**](https://emazack.github.io/role-playing-game/)             | Wizards are OP  | 2023 |[![](https://img.shields.io/badge/-🌎-informational?style=flat&logoColor=black&color=white)](https://emazack.github.io/role-playing-game/) [![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/emazack/role-playing-game)|
+| [**Guess the word**](https://emazack.github.io/role-playing-game/)             | Assembly: Endgame  | 2025 |[![](https://img.shields.io/badge/-🌎-informational?style=flat&logoColor=black&color=white)](https://emazack.github.io/assembly-game/) [![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/emazack/assembly-game)|
 
  
  ## 🔨 Utility
-| Project | Description  | Status | Links  | 
+| Project | Description  | Age | Links  | 
 |--------------|---|---|---|
-| [**Password Generator**](https://emazack.github.io/password-generator/)             | Ez two pass generator  | PROD |[![](https://img.shields.io/badge/-🌎-informational?style=flat&logoColor=black&color=white)](https://emazack.github.io/password-generator/) [![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/emazack/password-generator)|
+| [**Password Generator**](https://emazack.github.io/password-generator/)             | Ez two pass generator  | 2021 |[![](https://img.shields.io/badge/-🌎-informational?style=flat&logoColor=black&color=white)](https://emazack.github.io/password-generator/) [![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/emazack/password-generator)|
 
   
  ## 🔨 Graphic Design
-| Project | Description  | Status | Links  | 
+| Project | Description  | Age | Links  | 
 |--------------|---|---|---|
-| [**E-learning landing page**](https://emazack.github.io/e-learning-landing-page/)             | You are not going to be skilled by looking this repo  | PROD |[![](https://img.shields.io/badge/-🌎-informational?style=flat&logoColor=black&color=white)](https://emazack.github.io/e-learning-landing-page/) [![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/emazack/e-learning-landing-page)|
+| [**E-learning landing page**](https://emazack.github.io/e-learning-landing-page/)             | Fancy programmer  | 2021 |[![](https://img.shields.io/badge/-🌎-informational?style=flat&logoColor=black&color=white)](https://emazack.github.io/e-learning-landing-page/) [![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/emazack/e-learning-landing-page)|
 
 <div align="center">
 
