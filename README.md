@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @emazack
 - 👀 I’m interested in Front-end, web development and programming
-- 🌱 I’m always learning: Typescript, React, IA development. I am building
+- 🌱 I’m always learning: Typescript, React, IA development. I am always building
 solid foundations in computer science 
 - 🤪 I want to be the living proof that innate talent does not exist, it's just matter of commitment and passion. I am passionate programming. I believe in multidisciplinary mindset.
 
