@@ -16,7 +16,7 @@ solid foundations in computer science
 ## 🔨 AI
 | Project | Description  | Age | Links  | 
 |--------------|---|---|---|
-| [**Chef App**](https://github.com/emazack/chef-gpt) |  AI powered chef receipt creator | 2025  | [![](https://img.shields.io/badge/-🌎-informational?style=flat&logoColor=black&color=white)](https://chef-gpt-eight.vercel.app/) [![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/emazack/chef-gpt) |
+| [**Chef App**](https://github.com/emazack/chef-gpt) |  AI powered chef receipt creator | WP  | [![](https://img.shields.io/badge/-🌎-informational?style=flat&logoColor=black&color=white)](https://chef-gpt-eight.vercel.app/) [![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/emazack/chef-gpt) |
 
 
 ## 🔨 App
